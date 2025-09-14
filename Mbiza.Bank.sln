@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mbiza.Bank", "Mbiza.Bank\Mbiza.Bank.csproj", "{F2B7DAC7-099D-4CAE-BB35-36ADA45C5415}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mbiza.Bank.Logic", "Mbiza.Bank.Logic\Mbiza.Bank.Logic.csproj", "{8FCD7798-5902-4709-A026-1F0C6A3048C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mbiza.Bank.Entities", "Mbiza.Bank.Entities\Mbiza.Bank.Entities.csproj", "{869A1AC3-29BB-43B8-817D-CE1206255186}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mbiza.Bank.Data", "Mbiza.Bank.Data\Mbiza.Bank.Data.csproj", "{4AD288DC-ED23-4099-BCB1-273E76A35DBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mbiza.Bank.Utils", "Mbiza.Bank.Utils\Mbiza.Bank.Utils.csproj", "{0E2A54E0-3C6B-47FA-8EFC-ABC5BB35142F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mbiza.Bank.Aws", "Mbiza.Bank.Aws\Mbiza.Bank.Aws.csproj", "{F4F93675-8FA6-49A5-A269-93922EB8E342}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2B7DAC7-099D-4CAE-BB35-36ADA45C5415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B7DAC7-099D-4CAE-BB35-36ADA45C5415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B7DAC7-099D-4CAE-BB35-36ADA45C5415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B7DAC7-099D-4CAE-BB35-36ADA45C5415}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FCD7798-5902-4709-A026-1F0C6A3048C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FCD7798-5902-4709-A026-1F0C6A3048C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FCD7798-5902-4709-A026-1F0C6A3048C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FCD7798-5902-4709-A026-1F0C6A3048C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{869A1AC3-29BB-43B8-817D-CE1206255186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{869A1AC3-29BB-43B8-817D-CE1206255186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{869A1AC3-29BB-43B8-817D-CE1206255186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{869A1AC3-29BB-43B8-817D-CE1206255186}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AD288DC-ED23-4099-BCB1-273E76A35DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AD288DC-ED23-4099-BCB1-273E76A35DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AD288DC-ED23-4099-BCB1-273E76A35DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AD288DC-ED23-4099-BCB1-273E76A35DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E2A54E0-3C6B-47FA-8EFC-ABC5BB35142F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E2A54E0-3C6B-47FA-8EFC-ABC5BB35142F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E2A54E0-3C6B-47FA-8EFC-ABC5BB35142F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E2A54E0-3C6B-47FA-8EFC-ABC5BB35142F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4F93675-8FA6-49A5-A269-93922EB8E342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4F93675-8FA6-49A5-A269-93922EB8E342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4F93675-8FA6-49A5-A269-93922EB8E342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4F93675-8FA6-49A5-A269-93922EB8E342}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC784868-6ACB-4C6F-BE72-999C83189C88}
+	EndGlobalSection
+EndGlobal

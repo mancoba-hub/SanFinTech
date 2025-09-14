@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="8.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Mbiza.Bank.Data\Mbiza.Bank.Data.csproj" />
+    <ProjectReference Include="..\Mbiza.Bank.Utils\Mbiza.Bank.Utils.csproj" />
+  </ItemGroup>
+
+</Project>
